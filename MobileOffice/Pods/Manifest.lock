@@ -1,0 +1,42 @@
+PODS:
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - HyphenateFullSDK (3.1.3)
+  - MJExtension (3.0.10)
+  - RxCocoa (2.3.1):
+    - RxSwift (~> 2.3.1)
+  - RxSwift (2.3.1)
+  - SnapKit (0.20.0)
+  - SVProgressHUD (2.0)
+
+DEPENDENCIES:
+  - FMDB (~> 2.6.2)
+  - HyphenateFullSDK (from `https://github.com/easemob/hyphenate-full-cocoapods.git`)
+  - MJExtension
+  - RxCocoa (~> 2.0)
+  - RxSwift (~> 2.0)
+  - SnapKit
+  - SVProgressHUD
+
+EXTERNAL SOURCES:
+  HyphenateFullSDK:
+    :git: https://github.com/easemob/hyphenate-full-cocoapods.git
+
+CHECKOUT OPTIONS:
+  HyphenateFullSDK:
+    :commit: 904016687d6099c0158971380be7e8cd859fb79e
+    :git: https://github.com/easemob/hyphenate-full-cocoapods.git
+
+SPEC CHECKSUMS:
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  HyphenateFullSDK: 8b5b092055480308a47c9bb9b78baed7f45f7713
+  MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
+  RxCocoa: a2baaf3462b989559a51dce59d78fbebb8fe0afa
+  RxSwift: 829b2843e9eddc77a02cb3f5117f0d55f8f646f1
+  SnapKit: 5fce3c1bbbf1fbd31de9aa92f33eb9fa03f15650
+  SVProgressHUD: e9e7c893686a20da55a28015ed384d9425e15479
+
+PODFILE CHECKSUM: 0507bdb7a4570a10111b52ae91073cd7a23af428
+
+COCOAPODS: 1.0.1

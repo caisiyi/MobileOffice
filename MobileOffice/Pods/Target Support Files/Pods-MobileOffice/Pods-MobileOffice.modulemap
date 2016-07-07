@@ -1,0 +1,6 @@
+framework module Pods_MobileOffice {
+  umbrella header "Pods-MobileOffice-umbrella.h"
+
+  export *
+  module * { export * }
+}

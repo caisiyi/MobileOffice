@@ -1,0 +1,11 @@
+# Podfile
+use_frameworks!
+target 'MobileOffice' do
+pod 'RxSwift',    '~> 2.0'
+pod 'RxCocoa',    '~> 2.0'
+pod 'MJExtension'
+pod 'SnapKit'
+pod 'FMDB' ,'~>2.6.2'
+pod 'SVProgressHUD'
+pod 'HyphenateFullSDK', :git => 'https://github.com/easemob/hyphenate-full-cocoapods.git'
+end
